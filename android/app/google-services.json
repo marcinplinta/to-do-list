@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246853441241",
+    "project_id": "wydatki-c72f3",
+    "storage_bucket": "wydatki-c72f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246853441241:android:5a2c1d4a20f7d4970ad0c8",
+        "android_client_info": {
+          "package_name": "com.marcinplinta.wydatki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246853441241-4fk102b5fuqeiktjqv7k1v1hkr6qc117.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74nvJb9J1hBFrTMINgNIqGBKncSYot5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246853441241-4fk102b5fuqeiktjqv7k1v1hkr6qc117.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
